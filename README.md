@@ -3,9 +3,9 @@
 This project is a peer-graded assignment in the course Practical Machine Learning, part of the Data Science Specialization on Coursera 
 from the Johns Hopkins University.
 
+Prediction Assignment Writeup in Browser:
 https://badewannenente.github.io/PML-Prediction-Assignment/ML_Project.html
 
-Prediction Assignment Writeup
 
 Background
 
